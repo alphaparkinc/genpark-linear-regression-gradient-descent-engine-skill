@@ -1,0 +1,30 @@
+{
+  "name": "genpark-linear-regression-gradient-descent-engine-skill",
+  "version": "1.0.0",
+  "description": "Multivariate linear regression engine computing MSE loss, analytical gradient descent weights, and R-squared coefficient of determination.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "linear-regression",
+    "gradient-descent",
+    "machine-learning",
+    "r-squared",
+    "supervised-learning",
+    "zero-dependency",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "fit",
+      "description": "Fit multivariate linear regression using gradient descent."
+    },
+    {
+      "name": "predict",
+      "description": "Predict targets for new feature vectors."
+    },
+    {
+      "name": "run_benchmark_linear_regression",
+      "description": "Run linear regression benchmark."
+    }
+  ]
+}
